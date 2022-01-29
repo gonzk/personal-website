@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.home {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.about,
+.contact-me {
+  display: flex;
+  height: 60vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.about {
+  background-image: url('/public/images/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #242424;
+  font-size: 100px;
+}
+
+.contact-me {
+  /* Photo by Karolina Grabowska from Pexels */
+  background-image: url('/public/images/img-1.jpg'); 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 80px;
+}
+
+.email-container {
+  padding: 2rem;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.email-components .form-group{ 
+  padding-bottom: 2rem;
+}
+
+.email-components .form-group input{ 
+  font-size: 20px;
+}
+
+.email-components .form-group textarea{ 
+  font-size: 20px;
+}
+
+.email-components .btn { 
+  font-size: 20px;
+}
+
+.email-components .btn:hover{
+    background: #242424;
+    color: #fff;
+    transition: all 0.3s ease-out;
+}
