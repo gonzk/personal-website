@@ -19,16 +19,22 @@ function Info() {
                     <ul className="info__items">
                         <li className="info__item">
                             <h2 className="info__item__text intro">
-                            Kristine is currently a 3rd year BSc Computer Science major at the University of
-                            British Columbia (UBC). Since September 2021, she has been interning at SAP Vancouver as
+                            Kristine is currently a 4th year BSc Computer Science major at the University of
+                            British Columbia (UBC). Since May 2022, she is currently interning at Wealthsimple as a software developer.
+                            For most of her internship, she has been contributing to the front-end designs of the Wealthsimple unified app.
+                            She mainly programs in React Native (TypeScript). She takes accountability for her learning and growth in software
+                            engineering by taking the initiative to pick up tickets that allow her to work with the frontend and backend of the app.
+                            She has contributed to several features in the app that can be seen on the frontend. 
+    
+                            From September 2021 to April 2022, she interned SAP Vancouver as
                             an Agile Developer. During her internship, she has worked on a variety of frontend
                             and backend tickets where she had to write, read and understand JavaScript, TypeScript, and SQL.
                             In addition to these tickets, she has also been working with a full-time developer on 
                             microservices which includes deploying changes for one of SAP's products.
                             <br/> <br/>
 
-                            Aside from work as an intern, Kristine has been working as a TA at UBC for an
-                            introductory Computer Science course since January 2020. To contribute to her
+                            Aside from work as an intern, Kristine worked as a TA at UBC for an
+                            introductory Computer Science course from January 2020 - April 2022. To contribute to her
                             community, she volunteers at her local hospital as an Emergency Department Greeter 
                             every Saturday.
 
