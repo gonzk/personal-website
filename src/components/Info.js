@@ -25,7 +25,8 @@ function Info() {
                             She mainly programs in React Native (TypeScript). She takes accountability for her learning and growth in software
                             engineering by taking the initiative to pick up tickets that allow her to work with the frontend and backend of the app.
                             She has contributed to several features in the app that can be seen on the frontend. 
-    
+                            <br /> <br />
+                            
                             From September 2021 to April 2022, she interned SAP Vancouver as
                             an Agile Developer. During her internship, she has worked on a variety of frontend
                             and backend tickets where she had to write, read and understand JavaScript, TypeScript, and SQL.
